@@ -1,20 +1,23 @@
-- name: Javascript
+- name: JavaScript
 - name: Unreal Engine
 - name: Unity
-- name: Typescript
+- name: TypeScript
 - name: Angular
 - name: Lua
 - name: C++
 - name: C#
-- name: LESS
+- name: React
 - name: Bootstrap
-- name: Open Gl
+- name: OpenGL
 - name: Java
 - name: SASS
-- name: Vue
+- name: Vue.js
 - name: HTML
 - name: CSS
-- name: 3DS Max
+- name: LESS
+- name: jQuery
+- name: Node.js
+- name: Autodesk 3ds Max
 - name: Adobe Photoshop
 - name: Blender
 
