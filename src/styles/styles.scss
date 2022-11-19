@@ -43,14 +43,14 @@ $base-color-hover-2: darken($base-color-2, 10%);
 
 // Define background colors
 $background: #222831;
-$background-alt: #3b484e;
+$background-alt: #090a0a;
 
 // Define border colors
 $border: #dcd9d9;
 
 // Define text colors
 $headingLight: #e7c9a5;
-$headingDark: #3b484e;
+$headingDark: #090a0a;
 $text: #393E46;
 $textLight: #dcd9d9;
 
@@ -201,7 +201,7 @@ header {
 }
 
 #menu {
-    background: #3b484e;
+    background: #090a0a;
     &.active {
         display: block;
     }
@@ -333,7 +333,7 @@ footer {
     border: 1px solid #4a3a40;
     border-radius: 14px;
     box-shadow: black 0px 2px 18px;
-    background: #3b484e;
+    background: #090a0a;
     @include transition();
 
     &:hover, &:focus, &:active {
@@ -441,7 +441,7 @@ footer {
     bottom: 0;
     left: 0;
     /*background: rgba($base-color-hover-1, 0.85);*/
-    background: rgba($base-color-hover-2, 0.22);
+    background: rgba($background-alt, 0.22);
     z-index: 1;
 }
 
