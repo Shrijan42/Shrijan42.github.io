@@ -394,14 +394,10 @@ footer {
 }
 
 #lead-overlay {
-    position: absolute;
     height: 100%;
-    width: 100%;
     top: 0;
-    right: 0;
+    background: rgb(0 0 0 / 50%);
     bottom: 0;
-    left: 0;
-    background: rgba($background-alt, 0.8);
     z-index: 1;
 }
 
