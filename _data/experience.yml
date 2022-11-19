@@ -1,17 +1,23 @@
-- name: Front End Developer/Software Developer 
+- name: Front-End Software Developer
+  designation:  Motivait (Newcastle upon Tyne , United Kingdom) 
+  date: September 2022-Present
+  descriptions: 
+    - Working as a Front-End Software Developer using Javascript , AngularJS and Node.js in projects such as Zebra Island and Zebra Dashboard.
+    - Working as a Software Developer in projects such as FFDT , Newcastle Helix and BUS1016 using JavaScript , Angular 13 , CMS and SASS.
+ name: Front End Developer/Software Developer 
   designation:  HiUp Solutions (Nepal/Head Office:Ireland) 
-  date: October 1 2018-March 6 2020 
+  date: October 2018-March 2020 
   descriptions: 
     - Develop and enhance frontend platform website/web application/API for Connected Portfolio-PremierEducation-Group and Apprenticeship.  
     - Design and develop new front end application for various platforms. Help out with front-end work on other application (HTML/CSS/Javascript/Vue/Angular in Node.js applications.) 
 - name: Front End Developer/Software Developer
   designation:  Deerwalk Inc (Nepal/Head Office:U.S.A.) 
-  date: March 26 2018-August 31 2018 
+  date: March 2018-August 2018 
   descriptions: 
     - Design and develop new front end application for Plan Analytics and other big data solutions based on U.S. health care sector. 
     - Feature, Support, Bug and Report Task in Deerwalk’s Plan Analytics application and Executive Analytics applications using Javascript, Bootstrap, Java and Angular.  
 - name: Web Developer/Front End Developer
   designation:  Deerwalk Group Ltd. (Nepal) 
-  date: January 16 2017-November 22 2017 
+  date: January 2017-November 2017 
   descriptions: 
     -  Design and Develop web application for Deerwalk which includes Deerwalk CTEVT web application, Deerwalk Library Management System and Hospital Management System web application using HTML , CSS , Javascript , Angular , Bootstrap , Typescript and SASS.  
