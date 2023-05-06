@@ -17,8 +17,8 @@
 - name: LESS
 - name: jQuery
 - name: Node.js
-- name: Autodesk 3ds Max
-- name: Adobe Photoshop
+- name: Strapi CMS
+- name: MySQL
 - name: Blender
 
 
