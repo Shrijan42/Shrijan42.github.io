@@ -6,7 +6,7 @@
 - name: Lua
 - name: C++
 - name: C#
-- name: React
+- name: GDevelop 5
 - name: Bootstrap
 - name: OpenGL
 - name: Java
@@ -19,6 +19,6 @@
 - name: Node.js
 - name: Strapi CMS
 - name: MySQL
-- name: Blender
+- name: React
 
 
