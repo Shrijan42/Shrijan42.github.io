@@ -20,5 +20,10 @@
 - name: Strapi CMS
 - name: MySQL
 - name: React
+- name: LESS.js
+- name: ASP.NET
+- name: AngularJS
+- name: MongoDB
+- name: Express.js
 
 
